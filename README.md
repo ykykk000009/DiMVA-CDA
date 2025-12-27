@@ -1,8 +1,16 @@
 # DiMVA-CDA
-DiMVA-CDA
 
 env list: 
+torch 2.4.0 
+pip 24.0
+pandas 2.2.1 
+numpy 1.26.4 
+scikit-learn 1.5.0 
+scipy 1.13.1
+cuda-python 12.5.0 
+nvidia-cudnn-cu12 9.1.0.70
 
+dataset list:
 The databases used in this model is open-source, and the data sources are as follows:
 
 circ2Disease: a manually curated database of experimentally validated circRNAs in human disease DOI: 10.1038/s41598-018-29360-3
