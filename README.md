@@ -1,6 +1,8 @@
 # DiMVA-CDA
 
 env list: 
+GPU Model: NVIDIA A40
+Memory: 24 GB (24576 MiB)
 torch 2.4.0 
 pip 24.0
 pandas 2.2.1 
