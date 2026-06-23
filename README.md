@@ -1,6 +1,6 @@
 ## DiMVA-CDA
   
-##env list:   
+env list:   
 
 GPU Model: NVIDIA A40  
 Memory: 24 GB (24576 MiB)  
@@ -13,7 +13,7 @@ scipy 1.13.1
 cuda-python 12.5.0   
 nvidia-cudnn-cu12 9.1.0.70  
 
-##Wdataset list:  
+dataset list:  
 The databases used in this model is open-source, and the data sources are as follows:  
 
 circ2Disease: a manually curated database of experimentally validated circRNAs in human disease DOI: 10.1038/s41598-018-29360-3  
